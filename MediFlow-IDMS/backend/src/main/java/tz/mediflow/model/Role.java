@@ -1,0 +1,6 @@
+package tz.mediflow.model;
+
+public enum Role {
+    ADMIN, MANAGER, RECEPTIONIST, CASHIER, DOCTOR, LAB_TECHNICIAN,
+    PHARMACIST, NURSE, ACCOUNTANT, RECORDS_OFFICER
+}
